@@ -90,4 +90,4 @@ The dataset covers regular-season match records, final scores, period breakdowns
 **Oksana Kocherzhat**  
 Data Analyst (OAMK)  
 📍 Finland  
-🔗 LinkedIn: [linkedin.com/in/oksana-kocherzhat-834518231](https://www.linkedin.com/in/oksana-kocherzhat-834518231)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oksana-kocherzhat-834518231) [linkedin.com/in/oksana-kocherzhat-834518231](https://www.linkedin.com/in/oksana-kocherzhat-834518231)
